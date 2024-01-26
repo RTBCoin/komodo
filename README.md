@@ -17,7 +17,7 @@
 You can use this source code to build Komodo.
 To Run RTBCoin (RTB) Blockchain using komodod:
 ```shell
-./komodod XXXXXXXX
+./komodod -ac_name=RTB -ac_supply=0 -ac_blocktime=60 -ac_reward=5000000000 -ac_halving=129000 -ac_decay=82400000 -ac_founders=1 -ac_perc=1000000 -ac_adaptivepow=1 -ac_end=5250000 -ac_cbmaturity=180 -ac_pubkey=03794818de616a47cc5c531b5579b33f95d49939ab31535943b3c292aa8d4d66f9 -addnode=192.3.60.186
 ```
 
 
