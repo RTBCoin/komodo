@@ -12,7 +12,7 @@
 
 ---
 ![Komodo Logo](https://i.imgur.com/E8LtkAa.png "Komodo Logo")
-![](./RTB-logo.png)
+![](./rtb-logo.png)
 
 You can use this source code to build Komodo.
 To Run RTBCoin (RTB) Blockchain using komodod:
